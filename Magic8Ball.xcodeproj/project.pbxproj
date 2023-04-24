@@ -20,6 +20,7 @@
 		B0F2CDAF29F7166300D15C1F /* 3rd-Screen.png in Resources */ = {isa = PBXBuildFile; fileRef = B0F2CDAC29F7166300D15C1F /* 3rd-Screen.png */; };
 		B0F2CDB229F716C400D15C1F /* 5th-Screen.png in Resources */ = {isa = PBXBuildFile; fileRef = B0F2CDB029F716C400D15C1F /* 5th-Screen.png */; };
 		B0F2CDB329F716C400D15C1F /* 4th-Screen.png in Resources */ = {isa = PBXBuildFile; fileRef = B0F2CDB129F716C400D15C1F /* 4th-Screen.png */; };
+		B0F2CDB529F7176900D15C1F /* Alert-Screen.png in Resources */ = {isa = PBXBuildFile; fileRef = B0F2CDB429F7176900D15C1F /* Alert-Screen.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		B0F2CDAC29F7166300D15C1F /* 3rd-Screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "3rd-Screen.png"; sourceTree = "<group>"; };
 		B0F2CDB029F716C400D15C1F /* 5th-Screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "5th-Screen.png"; sourceTree = "<group>"; };
 		B0F2CDB129F716C400D15C1F /* 4th-Screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "4th-Screen.png"; sourceTree = "<group>"; };
+		B0F2CDB429F7176900D15C1F /* Alert-Screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Alert-Screen.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				B0F2CDAC29F7166300D15C1F /* 3rd-Screen.png */,
 				B0F2CDB129F716C400D15C1F /* 4th-Screen.png */,
 				B0F2CDB029F716C400D15C1F /* 5th-Screen.png */,
+				B0F2CDB429F7176900D15C1F /* Alert-Screen.png */,
 				B0F2CDA829F7158B00D15C1F /* Demo-Magic8Ball.gif */,
 			);
 			path = Images;
@@ -165,6 +168,7 @@
 				B0F2CDA229F7087C00D15C1F /* .gitignore in Resources */,
 				B0F2CDAE29F7166300D15C1F /* 1st-Screen.png in Resources */,
 				B0F2CDA429F7088200D15C1F /* README.md in Resources */,
+				B0F2CDB529F7176900D15C1F /* Alert-Screen.png in Resources */,
 				B0F2CD9829F7087000D15C1F /* Assets.xcassets in Resources */,
 				B0F2CDB229F716C400D15C1F /* 5th-Screen.png in Resources */,
 				B0F2CDAD29F7166300D15C1F /* 2nd-Screen.png in Resources */,
