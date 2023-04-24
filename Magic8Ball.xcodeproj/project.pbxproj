@@ -11,6 +11,15 @@
 		B0F2CD9629F7086F00D15C1F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0F2CD9529F7086F00D15C1F /* ContentView.swift */; };
 		B0F2CD9829F7087000D15C1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0F2CD9729F7087000D15C1F /* Assets.xcassets */; };
 		B0F2CD9B29F7087000D15C1F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0F2CD9A29F7087000D15C1F /* Preview Assets.xcassets */; };
+		B0F2CDA229F7087C00D15C1F /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = B0F2CDA129F7087C00D15C1F /* .gitignore */; };
+		B0F2CDA429F7088200D15C1F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B0F2CDA329F7088200D15C1F /* README.md */; };
+		B0F2CDA729F70CE900D15C1F /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0F2CDA629F70CE900D15C1F /* Constants.swift */; };
+		B0F2CDA929F7158B00D15C1F /* Demo-Magic8Ball.gif in Resources */ = {isa = PBXBuildFile; fileRef = B0F2CDA829F7158B00D15C1F /* Demo-Magic8Ball.gif */; };
+		B0F2CDAD29F7166300D15C1F /* 2nd-Screen.png in Resources */ = {isa = PBXBuildFile; fileRef = B0F2CDAA29F7166300D15C1F /* 2nd-Screen.png */; };
+		B0F2CDAE29F7166300D15C1F /* 1st-Screen.png in Resources */ = {isa = PBXBuildFile; fileRef = B0F2CDAB29F7166300D15C1F /* 1st-Screen.png */; };
+		B0F2CDAF29F7166300D15C1F /* 3rd-Screen.png in Resources */ = {isa = PBXBuildFile; fileRef = B0F2CDAC29F7166300D15C1F /* 3rd-Screen.png */; };
+		B0F2CDB229F716C400D15C1F /* 5th-Screen.png in Resources */ = {isa = PBXBuildFile; fileRef = B0F2CDB029F716C400D15C1F /* 5th-Screen.png */; };
+		B0F2CDB329F716C400D15C1F /* 4th-Screen.png in Resources */ = {isa = PBXBuildFile; fileRef = B0F2CDB129F716C400D15C1F /* 4th-Screen.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +28,15 @@
 		B0F2CD9529F7086F00D15C1F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B0F2CD9729F7087000D15C1F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B0F2CD9A29F7087000D15C1F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B0F2CDA129F7087C00D15C1F /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		B0F2CDA329F7088200D15C1F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B0F2CDA629F70CE900D15C1F /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		B0F2CDA829F7158B00D15C1F /* Demo-Magic8Ball.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Demo-Magic8Ball.gif"; sourceTree = "<group>"; };
+		B0F2CDAA29F7166300D15C1F /* 2nd-Screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2nd-Screen.png"; sourceTree = "<group>"; };
+		B0F2CDAB29F7166300D15C1F /* 1st-Screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1st-Screen.png"; sourceTree = "<group>"; };
+		B0F2CDAC29F7166300D15C1F /* 3rd-Screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "3rd-Screen.png"; sourceTree = "<group>"; };
+		B0F2CDB029F716C400D15C1F /* 5th-Screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "5th-Screen.png"; sourceTree = "<group>"; };
+		B0F2CDB129F716C400D15C1F /* 4th-Screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "4th-Screen.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +53,9 @@
 		B0F2CD8729F7086F00D15C1F = {
 			isa = PBXGroup;
 			children = (
+				B0F2CDA329F7088200D15C1F /* README.md */,
+				B0F2CDA129F7087C00D15C1F /* .gitignore */,
+				B0F2CDA529F70AB200D15C1F /* Images */,
 				B0F2CD9229F7086F00D15C1F /* Magic8Ball */,
 				B0F2CD9129F7086F00D15C1F /* Products */,
 			);
@@ -52,6 +73,7 @@
 			isa = PBXGroup;
 			children = (
 				B0F2CD9329F7086F00D15C1F /* Magic8BallApp.swift */,
+				B0F2CDA629F70CE900D15C1F /* Constants.swift */,
 				B0F2CD9529F7086F00D15C1F /* ContentView.swift */,
 				B0F2CD9729F7087000D15C1F /* Assets.xcassets */,
 				B0F2CD9929F7087000D15C1F /* Preview Content */,
@@ -65,6 +87,19 @@
 				B0F2CD9A29F7087000D15C1F /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		B0F2CDA529F70AB200D15C1F /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				B0F2CDAB29F7166300D15C1F /* 1st-Screen.png */,
+				B0F2CDAA29F7166300D15C1F /* 2nd-Screen.png */,
+				B0F2CDAC29F7166300D15C1F /* 3rd-Screen.png */,
+				B0F2CDB129F716C400D15C1F /* 4th-Screen.png */,
+				B0F2CDB029F716C400D15C1F /* 5th-Screen.png */,
+				B0F2CDA829F7158B00D15C1F /* Demo-Magic8Ball.gif */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +160,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B0F2CDB329F716C400D15C1F /* 4th-Screen.png in Resources */,
 				B0F2CD9B29F7087000D15C1F /* Preview Assets.xcassets in Resources */,
+				B0F2CDA229F7087C00D15C1F /* .gitignore in Resources */,
+				B0F2CDAE29F7166300D15C1F /* 1st-Screen.png in Resources */,
+				B0F2CDA429F7088200D15C1F /* README.md in Resources */,
 				B0F2CD9829F7087000D15C1F /* Assets.xcassets in Resources */,
+				B0F2CDB229F716C400D15C1F /* 5th-Screen.png in Resources */,
+				B0F2CDAD29F7166300D15C1F /* 2nd-Screen.png in Resources */,
+				B0F2CDA929F7158B00D15C1F /* Demo-Magic8Ball.gif in Resources */,
+				B0F2CDAF29F7166300D15C1F /* 3rd-Screen.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,6 +182,7 @@
 			files = (
 				B0F2CD9629F7086F00D15C1F /* ContentView.swift in Sources */,
 				B0F2CD9429F7086F00D15C1F /* Magic8BallApp.swift in Sources */,
+				B0F2CDA729F70CE900D15C1F /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
