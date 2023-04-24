@@ -35,15 +35,15 @@ Source: [Wikipedia - Magic 8 Ball](https://en.wikipedia.org/wiki/Magic_8_Ball)
 
 4. First Question - Second Response
 
-    ![First Question](https://github.com/Steven2110/TellMe/blob/main/Images/3rd-Screen.png)
+    ![First Question](https://github.com/Steven2110/Magic8Ball/blob/main/Images/3rd-Screen.png)
 
 5. Second Question - First Response
 
-    ![First Question](https://github.com/Steven2110/TellMe/blob/main/Images/4th-Screen.png)
+    ![First Question](https://github.com/Steven2110/Magic8Ball/blob/main/Images/4th-Screen.png)
 
 6. Second Question - Second Response
 
-    ![First Question](https://github.com/Steven2110/TellMe/blob/main/Images/5th-Screen.png)
+    ![First Question](https://github.com/Steven2110/Magic8Ball/blob/main/Images/5th-Screen.png)
 
 5. Alert when user didn't enter any question
 
